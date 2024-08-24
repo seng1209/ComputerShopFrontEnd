@@ -1,0 +1,15 @@
+/* .table {
+    width: 100%;
+    align-items: center;
+    text-align: left;
+}
+
+.tr {
+    padding: 8px;
+} */
+
+.customer-type-contain {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
